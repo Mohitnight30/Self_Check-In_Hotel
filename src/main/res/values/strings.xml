@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hotel Self Check-in</string>
+    <string-array name="roomtype">
+        <item>AC</item>
+        <item>Non-AC</item>
+    </string-array>
+</resources>
